@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calmistix | Zen Luxury Incense Art</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="script.js"></script>
+</head>
+<body>
+<header class="header"><div class="logo">CALMISTIX</div><nav><a href="#shop">Shop</a><a href="#story">Story</a><a href="#contact">Contact</a></nav><a class="cta" href="#shop">Shop Now</a></header>
+<section class="hero"><div class="overlay"></div><div class="hero-inner"><p class="eyebrow">ZEN LUXURY</p><h1>Create Calm. Live Beautifully.</h1><p>Handcrafted incense burners designed for premium homes, rituals and mindful living.</p><a href="#shop" class="btn">Explore Collection</a></div></section>
+<section id="shop" class="products"><h2>Best Sellers</h2><div class="grid"><article class="card"><div class="img"></div><h3>Backflow Cascade</h3><p>$79</p><button class="buy">Order Now</button></article><article class="card"><div class="img"></div><h3>Longboat Drift</h3><p>$89</p><button class="buy">Order Now</button></article><article class="card"><div class="img"></div><h3>Lotus Mini</h3><p>$59</p><button class="buy">Order Now</button></article></div></section>
+<section id="story" class="story"><h2>Luxury That Slows Time</h2><p>Every piece is selected to turn ordinary rooms into sacred spaces.</p></section>
+<footer id="contact"><p>support@calmistix.com</p><p>© 2026 CALMISTIX</p></footer>
+</body>
+</html>
