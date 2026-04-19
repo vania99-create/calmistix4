@@ -1,0 +1,1 @@
+document.querySelectorAll('.buy').forEach(btn=>{btn.addEventListener('click',()=>{alert('Redirecting to secure checkout...')})});window.addEventListener('scroll',()=>{document.querySelector('.header').style.boxShadow=window.scrollY>10?'0 10px 25px rgba(0,0,0,.08)':'none'});
